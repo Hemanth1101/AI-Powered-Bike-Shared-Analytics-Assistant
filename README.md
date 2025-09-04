@@ -1,4 +1,4 @@
-# Bike Share Analytics Assistant
+# AI-Powered-Bike-Shared-Analytics-Assistant
 
 A natural-language bike-share analytics assistant that translates user questions into parameterized SQL queries and executes them against PostgreSQL.
 
